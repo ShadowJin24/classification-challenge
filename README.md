@@ -1,5 +1,7 @@
 # classification-challenge
 
+The "spam_detector_edit.ipynb" is the file that needs to be run and is the solution for this challenge.
+
 ## Instructions
 This challenge consists of the following subsections:
 
